@@ -5,7 +5,7 @@
 
 	<groupId>au.csiro</groupId>
 	<artifactId>fhir-tx-transforms</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>FHIR Terminology Transforms</name>
@@ -31,7 +31,7 @@
         <connection>scm:git:https://github.com/MingZhang111/fx-tr.git</connection>
 		<developerConnection>scm:git:https://github.com/MingZhang111/fx-tr.git</developerConnection>
         <url>https://github.com/MingZhang111/fx-tr.git</url>
-      <tag>fhir-tx-transforms-1.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 	<properties>
