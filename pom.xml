@@ -28,6 +28,12 @@
 			<comments>Variation of the BSD/MIT License</comments>
 		</license>
 	</licenses>
+	
+	<scm>
+        <connection>scm:git:https://github.com/MingZhang111/fx-tr.git</connection>
+		<developerConnection>scm:git:https://github.com/MingZhang111/fx-tr.git</developerConnection>
+        <url>https://github.com/MingZhang111/fx-tr.git</url>
+    </scm>
 
 	<properties>
 		<java.version>11</java.version>
